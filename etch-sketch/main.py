@@ -34,5 +34,4 @@ screen.onkey(key='s', fun=move_backwards)
 screen.onkey(key='d', fun=move_right)
 screen.onkey(key='c', fun=restart_sketch)
 
-
 screen.exitonclick()
